@@ -1,7 +1,7 @@
-add mod.ini
 add disk/bb/#cmn200.ar.00
 add disk/bb/#cmn200.arl
 add disk/bb2/+#pam000.ar.00
 add disk/bb2/+#pam000.arl
 add disk/bb3/#Sonic.ar.00
 add disk/bb3/#Sonic.arl
+add mod.ini
